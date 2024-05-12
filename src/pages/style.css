@@ -1,0 +1,5 @@
+.topping--selected {
+    background-color: #ffe6b3; 
+    border: 2px solid #7e6643; 
+    border-radius: 5px;
+}
