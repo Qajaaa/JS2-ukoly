@@ -1,3 +1,15 @@
+.topping {
+    background-color: #f1ebdf;
+    border: 2px solid #c5bbab;
+    border-radius: 5px;
+    width: 50%; 
+    height: 100px;
+    margin: 0 auto; 
+    padding: 2px; 
+    box-sizing: border-box; 
+    text-align: center; 
+}
+
 .topping--selected {
     background-color: #ffe6b3;
     border: 2px solid #7e6643;
@@ -10,11 +22,3 @@
     text-align: center; 
 }
 
-.topping {
-    width: 50%; 
-    height: 100px;
-    margin: 0 auto; 
-    padding: 2px; 
-    box-sizing: border-box; 
-    text-align: center; 
-}
